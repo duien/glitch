@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "glitch"
   gem.homepage = "http://github.com/duien/glitch"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Access the Glitch API (Eventually)}
+  gem.description = %Q{OAuth and simle models for Glitch API}
   gem.email = "price.emily@gmail.com"
   gem.authors = ["Emily Price"]
   # dependencies defined in Gemfile
